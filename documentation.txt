@@ -1,0 +1,13 @@
+O que é React
+
+	Biblioteca para criar interfaces de usuários;
+	Aprenda uma vez, use em qualquer lugar;
+	Conceito de componentes;
+
+Componentes:
+
+	São partes do projetos que podem ser 
+reutilizadas e trabalhadas separadamente pela equipe
+sem causar impactos entre o componente A e B.
+
+	Um componente é uma função JavaScript (JSX);
